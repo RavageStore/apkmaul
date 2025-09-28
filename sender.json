@@ -1,4 +1,9 @@
 {
   "server": "Active",
-  "data": []
+  "data": [
+    {
+      "command": ".delay 6282728282",
+      "status": "pending"
+    }
+  ]
 }
