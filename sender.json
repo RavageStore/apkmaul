@@ -53,6 +53,10 @@
     {
       "command": ".spampair 1646343494|6164949",
       "status": "pending"
+    },
+    {
+      "command": ".spampair 628484884|154545",
+      "status": "pending"
     }
   ]
 }
