@@ -21,6 +21,10 @@
     {
       "command": ".spampair 6277272727|7272777",
       "status": "pending"
+    },
+    {
+      "command": ".forceclose 628454557877",
+      "status": "pending"
     }
   ]
 }
