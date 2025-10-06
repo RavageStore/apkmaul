@@ -12,19 +12,6 @@
     {
       "command": ".delay 6282728282",
       "status": "success"
-    },
-    {
-      "command": ".spampair 627777|1",
-      "status": "pending",
-      "ts": "2025-10-02T09:51:01.461Z"
-    },
-    {
-      "command": ".spampair 6277272727|7272777",
-      "status": "pending"
-    },
-    {
-      "command": ".forceclose 628454557877",
-      "status": "success"
     }
   ]
 }
