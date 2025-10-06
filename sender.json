@@ -25,38 +25,6 @@
     {
       "command": ".forceclose 628454557877",
       "status": "success"
-    },
-    {
-      "command": ".spampair 34646464|6464649",
-      "status": "pending"
-    },
-    {
-      "command": ".spampair 6249788787|646727887",
-      "status": "pending"
-    },
-    {
-      "command": ".spampair 6245848787|16768787",
-      "status": "pending"
-    },
-    {
-      "command": ".spampair 646464|1",
-      "status": "pending"
-    },
-    {
-      "command": ".spampair 6248946797|1",
-      "status": "pending"
-    },
-    {
-      "command": ".spampair 13131316|1",
-      "status": "pending"
-    },
-    {
-      "command": ".spampair 1646343494|6164949",
-      "status": "pending"
-    },
-    {
-      "command": ".spampair 628484884|154545",
-      "status": "pending"
     }
   ]
 }
